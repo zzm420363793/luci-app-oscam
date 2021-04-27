@@ -2,7 +2,7 @@ include $(TOPDIR)/rules.mk
 
 
 PKG_NAME:=oscam
-PKG_REV:=f118573 + b19095c  
+PKG_REV:=f118573  
 PKG_VERSION:=nx111-svn-1.20-11678-$(PKG_REV)
 PKG_RELEASE:=1
 
