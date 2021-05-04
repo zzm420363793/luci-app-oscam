@@ -1,19 +1,13 @@
 [account]
-user                          = user1
-pwd                           = pass
-suppresscmd08                 = 1
-keepalive                     = 1
-au                            = 1
-group                         = 1
-cccignorereshare              = 0
-cccstealth                    = 0
+user                          = tvheadend1
+pwd                           = tvheadend1
+caid                          = 0E00,2600
+group                         = 1,2,3,4
+au                            = BISS-PowerVu
+ident                         = 2600:000000;0E00:000000;0B0F:000000
 
 [account]
-user                          = user2
-pwd                           = pass
-suppresscmd08                 = 1
-keepalive                     = 1
-au                            = 1
-group                         = 1
-cccignorereshare              = 0
-cccstealth                    = 0
+user                          = tvheadend
+pwd                           = 
+group                         = 1,2,3,4
+au                            = 0
